@@ -4,4 +4,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/step4k777/First/tree/main/Project%200)
+* [Проект 0. Игра: Угадай число](https://github.com/step4k777/First)
